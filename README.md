@@ -11,7 +11,7 @@
 📫 **Let's Connect**
 
 - ✉️ **Email:** <abaduchanna@gmail.com>
-- 📱 **Phone:** +92 339 3078683
+- 📱 **Phone:** +92 300 3078683
 - 🔗 **LinkedIn:** [abad-umair-channa](https://www.linkedin.com/in/abad-umair-channa/)
 - 📍 **Location:** Karachi, Pakistan
 
