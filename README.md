@@ -1,4 +1,4 @@
-# **Abad Umair Channa**
+# **www.3SVerse.com**
 
 ## **Senior Inventory & Supply Chain Analyst**
 
