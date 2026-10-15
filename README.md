@@ -19,6 +19,23 @@
 
 ---
 
+## 3S VERSE — SHIPPED PRODUCTS
+
+**Live site + store:** [www.3SVerse.com](https://www.3sverse.com) — every app ships as a ready-to-run download under each repository's **Releases**.
+
+| Product | What it does | Where |
+| --- | --- | --- |
+| **SignalScout** | Lead scouting for wireless retailers — multi-store sweeps, Excel export, challenge-resume flow | [SignalScout](https://github.com/abaduchanna/SignalScout) |
+| **3SVerse WiFi Transfer** | Fast phone ↔ PC file transfer over local Wi-Fi — no cables, no cloud | [3SVerse_WiFi_Transfer](https://github.com/abaduchanna/3SVerse_WiFi_Transfer) |
+| **License Studio** | License / product / pricing management for the 3S Verse store (Lemon Squeezy powered) | [3SVerse.com](https://www.3sverse.com) |
+| **MangoDisk** | Large-file transfer app for Android — simple, resumable, local | [MangoDisk](https://github.com/abaduchanna/MangoDisk) |
+| **NetSpeedMeter** | Network speed display embedded in the Windows 10/11 taskbar (TrafficMonitor-style) | [NetSpeedMeter](https://github.com/abaduchanna/NetSpeedMeter) |
+| **Facebook Group Poster / Live Poster** | Scheduled posting + live announcements across Facebook groups | [FB_Live_Group_Poster](https://github.com/abaduchanna/FB_Live_Group_Poster) |
+| **LinkedIn Poster** | Browser-mode LinkedIn posting automation | [3SVerse_LinkedIn_Poster](https://github.com/abaduchanna/3SVerse_LinkedIn_Poster) |
+| **3SVerse Bridge** | Encrypted operator bridge — desktops, browser extension relay, and automation agents | [3SVerse.com](https://www.3sverse.com) |
+
+---
+
 ## PROFESSIONAL SUMMARY
 
 Supply chain, inventory, procurement, and operations professional with 13+ years of cumulative experience across telecom, FMCG, logistics, and pharmaceutical operations. Experienced in inventory monitoring, purchase order support, vendor follow-up, ERP reconciliation, process automation, KPI reporting, Excel dashboards, Google Sheets dashboards, and multi-location retail operations.
