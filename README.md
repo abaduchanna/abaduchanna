@@ -1,4 +1,4 @@
-# **www.3SVerse.com**
+# **3SVerse** — Software, Systems & Operations
 
 ## **Senior Inventory & Supply Chain Analyst**
 
@@ -21,7 +21,7 @@
 
 ## 3S VERSE — SHIPPED PRODUCTS
 
-**Live site + store:** [www.3SVerse.com](https://www.3sverse.com) — every app ships as a ready-to-run download under each repository's **Releases**.
+**Live site + store:** [3SVerse.com](https://3sverse.com) — every app ships as a ready-to-run download under each repository's **Releases**.
 
 | Product | What it does | Where |
 | --- | --- | --- |
@@ -30,6 +30,8 @@
 | **License Studio** | License / product / pricing management for the 3S Verse store (Lemon Squeezy powered) | [3SVerse.com](https://www.3sverse.com) |
 | **MangoDisk** | Disk cleaner for Android — temp/log/cache sweep, large-file finder (50 MB+), review-then-clean, fully on-device | [MangoDisk](https://github.com/abaduchanna/MangoDisk) |
 | **NetSpeedMeter** | Network speed display embedded in the Windows 10/11 taskbar (TrafficMonitor-style) | [NetSpeedMeter](https://github.com/abaduchanna/NetSpeedMeter) |
+| **GrabStorm** | Free & open multi-segment download accelerator for Windows — 32 parallel connections, browser integration, pause/resume | [3SVerse_GrabStorm](https://github.com/abaduchanna/3SVerse_GrabStorm) |
+| **XVidGrab** | Free & open cross-browser video downloader extension for X (Twitter) — Firefox, Chrome, Edge, Brave & more | [xvidgrab](https://github.com/abaduchanna/xvidgrab) |
 | **Facebook Group Poster / Live Poster** | Scheduled posting + live announcements across Facebook groups | [FB_Live_Group_Poster](https://github.com/abaduchanna/FB_Live_Group_Poster) |
 | **LinkedIn Poster** | Browser-mode LinkedIn posting automation | [3SVerse_LinkedIn_Poster](https://github.com/abaduchanna/3SVerse_LinkedIn_Poster) |
 | **3SVerse Bridge** | Encrypted operator bridge — desktops, browser extension relay, and automation agents | [3SVerse.com](https://www.3sverse.com) |
